@@ -1,0 +1,7 @@
+import View.ProductView;
+
+public class Test {
+    public static void main(String[] args) {
+        new ProductView();
+    }
+}
